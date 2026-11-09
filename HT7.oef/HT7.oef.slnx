@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="HT7.oef.vbproj" />
+  <Project Path="../ConsoleApp1/Speler.vbproj" />
+  <Project Path="../Oef6/Oef6.vbproj" Id="91e96e36-9dd3-46de-8cf7-b4bf8bd0d01b" />
+  <Project Path="../Trapper/Oef5.vbproj" Id="7492c140-a6a2-4038-ab54-bcb91677d825" />
+  <Project Path="../Veelhoel/Veelhoek.vbproj" />
+  <Project Path="Dier.vbproj" />
 </Solution>
